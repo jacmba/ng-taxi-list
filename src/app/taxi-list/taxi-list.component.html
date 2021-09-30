@@ -1,0 +1,9 @@
+<div class="container">
+  <h1>Taxi stops</h1>
+  <div class="card" *ngFor="let t of taxis">
+    <div class="card-header">{{ t["Título"] }}</div>
+    <div class="card-body">
+      <p>{{ t["Descripción"] }}</p>
+    </div>
+  </div>
+</div>

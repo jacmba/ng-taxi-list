@@ -1,0 +1,8 @@
+{
+  "/api": {
+    "target": "http://datosabiertos.laspalmasgc.es/wp-content/themes/viavansi-open-government/proxyFile.php?url=http://apidatosabiertos.laspalmasgc.es/datastore/dump/8d3b2605-0c75-48ac-81cc-2f9893a0c0d9&format=json&filename=baseparadastaxi.json",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
